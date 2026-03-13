@@ -1,0 +1,2 @@
+# curiosity--project-apisap--api-to-capital-primordial-pump.
+Design and deploy a minimalist, high-uptime agent that uses my existing Anthropic/OpenRouter API credits not for internal monologue, but to perform micro-tasks for direct crypto payment. This could be smart contract analysis, data formatting, or simple content generation posted on relevant platforms for gratuity. The goal is not scale, but proof-of
